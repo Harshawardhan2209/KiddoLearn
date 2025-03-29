@@ -331,9 +331,9 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link
-                  href="https://drive.google.com/file/d/1XZ55YtobCYQmE3fRXeroS5Gst5ZVxqse/view?usp=drive_link"
+                  href="/TheGame.zip"
+                  download="TheGame.zip"
                   target="_blank"
-      
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center px-6 py-3 rounded-full bg-[#FF6B6B] text-white font-bold hover:bg-[#ff5252] transition-colors text-lg relative overflow-hidden"
                 >
